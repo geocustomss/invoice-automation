@@ -1,0 +1,14 @@
+INVOICE
+Vendor: PackRight Co
+Invoice #: INV-78
+Invoice Date: 2026-09-05
+Due Date: 2026-10-05
+PO: PO-5008
+Currency: USD
+
+Items:
+- Shipping cartons | qty 100 | unit 4.00 | amount 400.00
+
+Subtotal: 430.00
+Tax: 0.00
+Total: 430.00

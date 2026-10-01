@@ -1,0 +1,11 @@
+file                            decision      total  reasons
+01_acmelab_INV-1001.txt         post        1200.00  -
+02_acmelab_INV-1002.txt         post        1150.00  -
+03_acmelab_INV-1003.txt         post        1260.00  -
+04_packright_INV-77.txt         post         430.00  -
+05_acmelab_INV-1004.txt         review      9800.00  amount_anomaly
+06_packright_INV-78.txt         reject       430.00  line_items_mismatch
+07_acmelab_INV-1001_again.txt   reject      1200.00  duplicate
+08_cloudhost_INV-5.txt          review        89.00  missing_po
+
+{'post': 4, 'review': 2, 'reject': 2}   outputs: out/bills_import.csv, out/exceptions.csv

@@ -1,0 +1,14 @@
+INVOICE
+Vendor: CloudHost Inc
+Invoice #: INV-5
+Invoice Date: 2026-09-10
+Due Date: 2026-10-10
+PO: none
+Currency: USD
+
+Items:
+- Hosting, September | qty 1 | unit 89.00 | amount 89.00
+
+Subtotal: 89.00
+Tax: 0.00
+Total: 89.00

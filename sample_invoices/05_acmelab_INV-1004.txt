@@ -1,0 +1,14 @@
+INVOICE
+Vendor: AcmeLab Supplies
+Invoice #: INV-1004
+Invoice Date: 2026-09-01
+Due Date: 2026-10-01
+PO: PO-4440
+Currency: USD
+
+Items:
+- Lab reagents kit (bulk) | qty 40 | unit 245.00 | amount 9800.00
+
+Subtotal: 9800.00
+Tax: 0.00
+Total: 9800.00
